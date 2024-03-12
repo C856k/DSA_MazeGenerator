@@ -1,0 +1,22 @@
+.cell {
+    width: 20px;
+    height: 20px;
+    background-color: #fff;
+    border: 1px solid #000;
+}
+
+.north {
+    border-top: none;
+}
+
+.east {
+    border-right: none;
+}
+
+.sout {
+    border-bottom: none;
+}
+
+.west {
+    border-left: none;
+}
